@@ -104,7 +104,8 @@ i { font-size: 16px; }
 .avatar:hover .avatar_pic em { filter:alpha(opacity=100); -moz-opacity:1; opacity:1; }
 .avatar:active .avatar_pic em { filter:alpha(opacity=70); -moz-opacity:0.7; opacity:0.7; }
 
-.avatar b { width: 36px; color: #29d; background: #eee; height: 20px; line-height: 20px; position: absolute; top: 50%; right: -18px; margin-top: -10px; text-align: center; font-weight: normal; }
+.avatar b { width: 36px; color: #797878; background: #eee; height: 20px; line-height: 20px; position: absolute; top: 50%; right: -18px; margin-top: -10px; text-align: center; font-weight: normal; }
+                            <p><i aria-hidden="true" data-icon="&#xe00b;"></i>Contact Me</a></p>
 b.doing.r5 img {   width: 46px;
     margin-top: 54px;
     margin-left: -16px;
